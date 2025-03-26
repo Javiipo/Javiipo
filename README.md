@@ -11,4 +11,6 @@
 ![CSS](https://img.shields.io/badge/CSS-85%25-blue?style=flat&logo=css3&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-80%25-yellow?style=flat&logo=javascript&logoColor=white)
 
-[![YWxr-MS5wbmc.png](https://i.postimg.cc/4yVtz7QZ/YWxr-MS5wbmc.png)](https://postimg.cc/jnqLTj1k)
+<p align="right">
+  <img src="https://i.postimg.cc/4yVtz7QZ/YWxr-MS5wbmc.png" alt="Sticker" width="100">
+</p>
