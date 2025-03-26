@@ -7,3 +7,5 @@
 ![HTML](https://img.shields.io/badge/HTML-90%25-orange?style=flat&logo=html5&logoColor=white)  
 ![CSS](https://img.shields.io/badge/CSS-85%25-blue?style=flat&logo=css3&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-80%25-yellow?style=flat&logo=javascript&logoColor=white)  
+
+![Fondo Personalizado](https://source.unsplash.com/1920x1080/?nature,technology)
