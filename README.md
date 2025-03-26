@@ -9,4 +9,6 @@
 ## Mis habilidades
 ![HTML](https://img.shields.io/badge/HTML-90%25-orange?style=flat&logo=html5&logoColor=white)  
 ![CSS](https://img.shields.io/badge/CSS-85%25-blue?style=flat&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-80%25-yellow?style=flat&logo=javascript&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-80%25-yellow?style=flat&logo=javascript&logoColor=white)
+
+<img src="https://imgur.com/I6mKlmb" alt="Descripción" width="100" align="right">
