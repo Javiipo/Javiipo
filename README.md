@@ -1,6 +1,10 @@
 ![Wave Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header)
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,astro)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,astro,node,react" />
+  </a>
+</p>
 
 ## Mis habilidades
 ![HTML](https://img.shields.io/badge/HTML-90%25-orange?style=flat&logo=html5&logoColor=white)  
