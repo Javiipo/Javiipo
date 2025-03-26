@@ -1,6 +1,8 @@
 ![Wave Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header)
 
-<p aling="center">Hola buenas tardes</p>
+<p align="center">
+  🌟 ¡Bienvenido a mi perfil de GitHub! 🌟
+</p>
 
 <p align="center">
   <a href="https://skillicons.dev">
