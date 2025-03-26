@@ -1,4 +1,5 @@
 ![Wave Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header)
 
-![CRT](https://img.shields.io/badge/TERMINAL-GREEN-black?style=for-the-badge&logo=linux)
+![Retro Terminal](https://upload.wikimedia.org/wikipedia/commons/7/73/Old_computer_terminal.png)
+
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,astro)](https://skillicons.dev)
