@@ -1,5 +1,7 @@
 ![Wave Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header)
 
+<p aling="center">Hola buenas tardes</p>
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,astro,nodejs" />
